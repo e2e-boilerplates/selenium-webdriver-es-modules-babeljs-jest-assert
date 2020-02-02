@@ -1,4 +1,4 @@
-name: selenium-webdriver-es6-modules-babeljs-jest-expect
+name: selenium-webdriver-es6-modules-babeljs-jest-assert
 
 on:
   push:

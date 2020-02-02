@@ -1,3 +1,4 @@
+import { strictEqual } from "assert";
 import { Builder, By } from "selenium-webdriver";
 import chrome from "selenium-webdriver/chrome";
 
@@ -25,7 +26,7 @@ describe("Sandbox", () => {
     const title = await browser.getTitle();
     const header = await browser.findElement(By.css("h1"));
 
-    expect(title).toEqual("Sandbox");
-    expect(await header.getText()).toEqual("Sandbox");
+    strictEqual(title, "Sandbox");
+    strictEqual(await header.getText(), "Sandbox");
   });
 });

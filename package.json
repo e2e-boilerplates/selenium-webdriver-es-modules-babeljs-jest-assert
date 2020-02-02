@@ -1,7 +1,7 @@
 {
-  "name": "selenium-webdriver-es6modules-babel-jasmine-expect",
+  "name": "selenium-webdriver-es6-modules-babeljs-jest-assert",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine, and Expect.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jest, and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx jest"
