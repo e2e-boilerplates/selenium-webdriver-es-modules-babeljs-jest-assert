@@ -1,6 +1,6 @@
-# selenium-webdriver (ES6-Modules, BabelJS, Jest, and Assert)
+# selenium-webdriver (ES Modules, BabelJS, Jest, and Assert)
 
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jest-assert](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jest-assert/workflows/selenium-webdriver-es6-modules-babeljs-jest-assert/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jest-assert/actions?workflow=selenium-webdriver-es6-modules-babeljs-jest-assert)
+[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jest-assert](https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jest-assert/workflows/selenium-webdriver-es-modules-babeljs-jest-assert/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jest-assert/actions?workflow=selenium-webdriver-es-modules-babeljs-jest-assert)
 
 selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jest, and Assert.
 
