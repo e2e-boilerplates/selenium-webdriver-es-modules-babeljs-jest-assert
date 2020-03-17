@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/workflows/selenium-webdriver-es-modules-babel-jest-assert/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/actions?workflow=selenium-webdriver-es-modules-babel-jest-assert)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/workflows/selenium-webdriver-es-modules-babel-jest-assert/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/actions?workflow=selenium-webdriver-es-modules-babel-jest-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Selenium-WebDriver Boilerplate
     
