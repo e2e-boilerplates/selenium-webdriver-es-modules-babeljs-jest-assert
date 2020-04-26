@@ -1,9 +1,0 @@
-| referrer                                                                                                         | count | uniques |
-| :--------------------------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert                                                 | 6     | 2       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/blob/master/.github/runs_status.md              | 2     | 1       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/blob/master/package.json                        | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/commit/cd5eebb100b8696ee270879d5242d1166b99b3a1 | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/commits                                         | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/commits/master                                  | 1     | 1       |
-| /e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert/tree/master/.github                             | 1     | 1       |
